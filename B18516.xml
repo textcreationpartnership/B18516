@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief advertisement to the merchant and clothier about the present state of the woollen manufactures of this nation by William Carter.</title>
+            <author>Carter, W. (William)</author>
+         </titleStmt>
+         <extent>Approx. 46KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18516</idno><idno type="EEBO-CITATION">8882339</idno>
+  <idno type="VID">204344</idno>
+  <idno type="EEBO-PROQUEST">2264218052</idno>
+  
+            <idno type="STC">Wing C672</idno>
+            <idno type="OCLC">08882339</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1279:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief advertisement to the merchant and clothier about the present state of the woollen manufactures of this nation by William Carter.</title>
+                  <author>Carter, W. (William)</author>
+               </titleStmt>
+               <extent>21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wool industry --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  Commerce.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204344:1"/>
+            <pb facs="tcp:204344:2"/>
+            <p>A BRIEF ADVERTISEMENT TO THE MERCHANT AND CLOTHIER About the present state of the Woollen Manufactures of this NATION: By William Garter.</p>
+            <p>To which is added an Abstract of a late Impression of <hi>England</hi>'s Interest by Trade.</p>
+            <p>
+               <hi>LONDON.</hi> Printed, for the Authour. 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="address">
+            <pb facs="tcp:204344:3"/>
+            <pb n="1" facs="tcp:204344:3"/>
+            <head>
+               <hi>A Brief Advertisement to the Merchant and Clothiers,</hi> &amp;c.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Had an intention, the beginning of the last Sum<g ref="char:EOLhyphen"/>mer, (before a long and chargeable fit of sick<g ref="char:EOLhyphen"/>ness befel me, for near three Moneths,) to in<g ref="char:EOLhyphen"/>form you in what state that affair about expor<g ref="char:EOLhyphen"/>tation of Wool, then stood; in which the Life and Death of your Trade, and the subsistence of many Thousand Families that depend on that Manufacture, consists.</p>
+            <p>Give me leave, (by some of the many instances I could give,) to demonstrate, that, my Labour, in this affair, hath not been fruitless altogether.</p>
+            <p>I have now been four years engaged in this Service, and how I have been forced, as well upon Travails, as Watchings both at Sea and on shore, I presume is well known to many of you.</p>
+            <p>And what expence I have been at, in that time, both for ser<g ref="char:EOLhyphen"/>vants and horses, and in my attendance at Court, and on the Parliament, gratuities to Sea-men, and parties of horse, and for the holding, and man<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng correspondencies in <hi>Ireland, Flanders, &amp;c.</hi> you cannot but in some measure be able to ap<g ref="char:EOLhyphen"/>prehend.</p>
+            <p>And that it must be the greater, in that I have not spent six daies, in twelve Moneths, at my own habitation, with my Friends: either to abate expences, or to look after any private business of my own.</p>
+            <p>What damage I have sustained, by losing my Trade in pur<g ref="char:EOLhyphen"/>suance of this affair, is well know (at least) to some: for,</p>
+            <pb n="2" facs="tcp:204344:4"/>
+            <p>When first I undertook this Affair, I intended to spend only one Moneth, or thereabout, in attendance on the Parliament for a new Act, which held me near six Moneths; and at the Ad<g ref="char:EOLhyphen"/>journment of the Parliament, I returned to my calling it being kept on foot for me, during the time of my attendance on the Parliament.</p>
+            <p>But those that knew my Trade at that time, know right well what opportunities of advantage I lett slip.</p>
+            <p>Therefore it must be a great mistake in some, that think I took up this Affaire, as though I had nothing else to doe.</p>
+            <p>For I was importuned by several Merchants and Others, soon after the Adjournment of the Parliament, to address my self un<g ref="char:EOLhyphen"/>to his Majestie in Council, for a Party of Horse, to be in <hi>Rum<g ref="char:EOLhyphen"/>ny Marsh</hi> in <hi>Kent,</hi> where the greatest part of the Wool is shipped from <hi>England;</hi> and some Friggats for preventing the said mischief; which through his Majesties favour and in<g ref="char:EOLhyphen"/>couragement, I did obtain.</p>
+            <p>Upon the promise of those Merchants, to re-imburse my charge, I proceeded; and the rather, seeing it was judged by most, that there was as much, if not more, need of the due ex<g ref="char:EOLhyphen"/>ceution of those Laws that are in force, than there was for making any new Act, as was inserted in a Report from the Councel for Trade, the second of <hi>April</hi> 1669, to his Majesty, in pursuance of several Proposals, that his Majesty had refer<g ref="char:EOLhyphen"/>ed to them, upon my Petition to Him, and the Council.</p>
+            <p>The Sum whereof followeth.</p>
+            <p>Whereas in pursuance of an Order of this Board, of the twentieth of <hi>November</hi> last, referring to the Council for Trade, the Proposalls of <hi>William Carter,</hi> for preventing the exportation of Wool, and conveying thereof beyond the Seas; the said Council have returned their report to the Board, that, having discoursed with the said <hi>William Carter,</hi> and such o<g ref="char:EOLhyphen"/>ther Persons, as they thought capable of giving them any good information, touching this matter, they find the exportation of Wool, is of destructive consequence to the Trade of this Kingdom, and that the same hath grown into practice, as well
+<pb n="3" facs="tcp:204344:4"/>by reason of the doubtfulness, of some expressions, and provi<g ref="char:EOLhyphen"/>sions in the Statute made in the twelfth Year of his Majesties Reign, prohibiting the exportation of Wool; as by the neglect and remisness of Officers, in not putting the Laws in due execution.</p>
+            <p>And had those Merchants and Others, perform'd their pro<g ref="char:EOLhyphen"/>mise, as some few did, I had done much more than I have, (though I have left nothing undone, that I was capable to per<g ref="char:EOLhyphen"/>form, or doe, considering how little assistance I had from o<g ref="char:EOLhyphen"/>thers) and indeed, my endeavours in this business, hath had so good success, as to the prevnting many Thousand packs of Wool from exportation, that the effect evidenced it self (at that time obvious to many Merchants, from their correspon<g ref="char:EOLhyphen"/>dents beyond Sea,) in the price of Wool suddenly, both in the fall here, and rise beyond Sea.</p>
+            <p>But should it now hereafter, for want of incouragement and attendance miscarry, (as you will see in an instant) how much it will wound <hi>Englands</hi> trade to the heart, I need not tell you. For, such is the gain and incouragement, for the transporting of this commodity, that if any imployed, or entrusted in this affair, will be bribed, they need not make complaint for want of Mo<g ref="char:EOLhyphen"/>ney, I do assure you: and if I for my integrity must fall, (and be forced to quit this service,) after all this four years labour and travail, It will be no encouragement to any other Person, to engage a-fresh therein.</p>
+            <p>Give me leave to adde, that it was no small grief to me, dureing my sickness, to hear of the many hundred packs of Wool that were exported, (both from <hi>England</hi> and <hi>Ireland,</hi>) more then had been at other times, which you will easily see in the ensuing Petition &amp; Letter; and my trouble was so much the more for as much as the King had given Order, a little before, that a Vessel purposely hired, because of Her swiftness, should attend that affair, and though I had made provision (by correspondents) for intelligence to prevent that mischief, yet I had not Money to pay Servants, nor to encourage my correspondents, nor that I could find any willing or able to pursue the said business, either because of the hazard or pains, or expensiveness thereof. The effect of which about <hi>Michaelmas</hi> last, occasioned this follow<g ref="char:EOLhyphen"/>ing Petition.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <pb n="4" facs="tcp:204344:5"/>
+                        <head>To the Kings most excellent <hi>Majesty.</hi>
+                        </head>
+                        <head type="sub">The Humble Petition of several Merchants.</head>
+                        <p>
+                           <hi>Sheweth,</hi>
+                        </p>
+                        <p>THat although many severe Laws, have been made against the Transportation of Wool; yet nevertheless, many e<g ref="char:EOLhyphen"/>vil-disposed Persons, do frequently Ship-off great quantities thereof, to the great decay of the Cloathing-Trade of this King<g ref="char:EOLhyphen"/>dome, and to the undoing of many thousand Families, who lived comfortably thereupon: and being through an ill custom, sold in forraign parts, as cheap as in many places of this King<g ref="char:EOLhyphen"/>dom; by means whereof, the Woollen Manufacture of this Na<g ref="char:EOLhyphen"/>tion, finds but small vend abroad, and dayly decreaseth in price; so that neither the Clothier, nor Merchant, have any incourage<g ref="char:EOLhyphen"/>ment, in making, or transporting the same; together with such great duties imposed by the <hi>French</hi> King, and Others; as in effect amounts to an absolute prohibition, (and that on purpose to incourage the Manufacture of their own Country.) Which if by some effectual means, be not speedily prevented, must in a short time, wholly destroy the great Manufacture, and Staple trade of this your Majesties Kingdom, and consequently to the decreasing of your Majesties Revenues, of the Custom a<g ref="char:EOLhyphen"/>bove Sixty Thousand pounds yearly; and that more particular<g ref="char:EOLhyphen"/>ly of late dayes, greater quantity of Wool, hath been tran<g ref="char:EOLhyphen"/>sported then formerly, by reason, as is doubted, of the conni<g ref="char:EOLhyphen"/>vance of some Officers, and easily compounding with the tran<g ref="char:EOLhyphen"/>sporters when discovered, which gives great incouragement to those Persons, to continue in this most destructive course.</p>
+                        <p>
+                           <hi>Your Petitioners most humbly pray, that your Majestie, would be pleased to issue out your Royal Proclamation, commanding all Officers and Others, to put the Laws in
+<pb n="5" facs="tcp:204344:5"/>execution, that so all may take notice thereof: there being many poor people imployed in shipping off the Wool, who pretend ignorance, and know not the Penalty of the Law: and that no compounding be made with any, but the Laws may be severely put in execution, against all Persons that be found guilty.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Suddenly after, this following Letter came to me from <hi>Flanders,</hi> March 5th. 1671.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>I Received yours of the 17/27 <hi>February,</hi> under Covert from, <hi>&amp;c.</hi> about the Wool affair. I have much reason to be<g ref="char:EOLhyphen"/>lieve, unless some are made examples, there will be conti<g ref="char:EOLhyphen"/>nual abuse; the Commodity, both <hi>English</hi> and <hi>Irish,</hi> Raw and Comb'd, abound so much in these Countries, as at present it's worth nothing; that is to say, there is apparent loss by it. I my self have at this time, several Baggs of Irish Wool: which I amproffered but six Stivers the pound, by which you may judg of the quantity in the Country: I took this Wool in Truck, from an Irish Merchant, and gave him eight and half stiver, <hi>per</hi> pound for it; thinking to have made a good bargain, and it was worth little less when I first had, and by the abundance since here, and in other parts arrived, it's fallen as you see, two Stivers <hi>per</hi> pound; at which price I will not sell it. Yet the ne<g ref="char:EOLhyphen"/>cessity both for Raw, and Comb'd Wool, is so great; and with<g ref="char:EOLhyphen"/>out which, these People cannot make abundance of Fabricks: as for that which is worth now but 6 or 7, they would be con<g ref="char:EOLhyphen"/>tent to give 15, rather than want; and for the Comb'd Wool, most of which comes from <hi>Dover,</hi> and <hi>Canterbury</hi> Transporters; <hi>Callis, Deep,</hi> St. <hi>Vallerys, Abbieville, Amiens, Dunkirk, Ostend, Bridges, Zealand, Rotterdam,</hi> and <hi>Ghent:</hi> All over these Provinces, every place is choaked with it.</p>
+                        <p>There is a Citty not 5 Leagues from this, called <hi>Tourney,</hi> a place renowned, for the making all sorts of stockings of Wool; it's not above twenty years agoe, that they betook themselves,
+<pb n="6" facs="tcp:204344:6"/>to make the Worsted hose; a trade which in my Minority, was considerable from <hi>London,</hi> into these Countries, and now you may have a parcel of <hi>English</hi> Worsted hose twenty years by you, and it's a question, if ever you sell them for the price they cost; and probably you may lose 20 <hi>per Cent.</hi> by them.</p>
+                        <p>It's not above three years agoe, that there was a scarcity of Combed Wool here in this quarter of the Country, and seve<g ref="char:EOLhyphen"/>ral of those stocking-Merchants, came running hither to me, to buy some; I told them, that such severity was then used in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as people were mad to adventure. This want lasted not a<g ref="char:EOLhyphen"/>bove three weeks, but it put the People of <hi>Tourney,</hi> on a resoluti<g ref="char:EOLhyphen"/>on to draw up a request to Monsieur <hi>Colbert,</hi> that he would make a defence of all <hi>English</hi> Manufacture; since they in <hi>England,</hi> had put a stop to the exportation of their Wool, to the great prejudice of the Manufacture of their Citty: after which, these of this Town, joyned with them, and so came a stop to the trade, which we injoyed for some time. So that you can easily see how insensibly those <hi>Dover</hi> and <hi>Canterbury</hi> transporters, draw the Kingdoms hearts-blood from them: I could add much more of the great benefit our Neighbours receive by it, which proves to an absolute ruine. But I guess you can as easily comprehend my meaning as if I had further enlarged.</p>
+                        <p>In a word, <hi>France</hi> rejects our Fabricks at this day, presu<g ref="char:EOLhyphen"/>ming that they shall never want our Wool, to make their own Fantastick Fabricks, which are so variable, as puts a great stop to the Currant Demand, that used to be of our more solid Fa<g ref="char:EOLhyphen"/>bricks. For they will pretend, to give the Mode to all the World; and so by this means, in time, all the World, will be disgusted with our Fabricks, when by consequence, they shall receive the Mode from the <hi>French.</hi> Consider of this I pray, that so there may be some speedy remedy.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now, sirs, how both these do answer, to what was said before, that unless this business be continually atten<g ref="char:EOLhyphen"/>ded, by some Person, that will be faithful; there will be an inevitable ruine of the Cloathing Trade, you will easily see.</p>
+            <pb n="7" facs="tcp:204344:6"/>
+            <p>Give me leave further to inform you, what great sense his Majestie himself hath also of this Affair; who hath been pleased to evidence it, both by his Care and Charge, in not only com<g ref="char:EOLhyphen"/>manding his Troops, but several Frigates to attend upon eve<g ref="char:EOLhyphen"/>ry occasion, beside his hireing a Vessel: but hath spent many dayes in Council about it; and in declaring his resolution, strictly to execute all the Laws against Transporters of Wool, and to further all Rational proposals, that can be further made; and did order (upon reading the fore-mentioned Petition of the Merchants,) for his Royal Proclamation, to be issued out about this matter.</p>
+            <p>Now for a conclusion, Gentlemen: If this service be accepta<g ref="char:EOLhyphen"/>ble, and that it be carryed on, you cannot imagine, it can be done without supplies. For, you cannot expect the King should take the charge of it wholly upon himself; of which, the pro<g ref="char:EOLhyphen"/>fit will mostly return to his Subjects. Nor that I should, if I were able, bear it my self, though indeed I have beyond what my condition could well permit me to do; and it's very plain, what hath been the consequence of my being discouraged, and taken (off wholly) but three Moneths from this Affair.</p>
+            <p>Sirs, I hope you will believe, and its but Rational, so to do; if I have spent so much of my time, and strength, mostly upon my own charge, with those hazards I have been exposed to, these four years, in this affair, with that little incouragement I have received: that if incouraged but with necessary supplies, so that I might not be taken off my pursuit, that I might do much more than I have, and the rather, because every thing is more easier than it was at first, having discovered so many Persons, and their wayes, and several in custody, in order to their Tryal, some Convict: its Rational, at least to suppose the way fair, to put a stop, to this most destructive course.</p>
+            <p>Since the penning these fore-going lines, I have some rea<g ref="char:EOLhyphen"/>son to fear, that I shall not be able to deliver my self from the slanders of some, who will be apt to fasten upon me, That <hi>I</hi> abuse you with pretences, and words only; unless I give some Instances in point of fact, in which I shall give you, a brief ac<g ref="char:EOLhyphen"/>count only of three or four late things, forbearing any repe<g ref="char:EOLhyphen"/>tition of what I have formerly done.</p>
+            <pb n="8" facs="tcp:204344:7"/>
+            <p>About the beginning of <hi>August</hi> last, a Vessel was taken near <hi>Gravesend,</hi> with 22 baggs of Wool, and the Master and his Man was committed to <hi>Newgate,</hi> by order of his Majesty in Council; and at the following Session at the Old <hi>Baily,</hi> no Per<g ref="char:EOLhyphen"/>son being bound to prosecute, they were to be discharged: upon which, (though I was not recovered,) I did immediately make application to the King in Council, whence they was committed; and an Order was forthwith conceaved, &amp; directed to the Recor<g ref="char:EOLhyphen"/>der of <hi>London,</hi> for their re-commitment until further Order, it being not then known, where they should be tryed, being taken in the River.</p>
+            <p>But the thirteenth of <hi>December,</hi> after a long debate before the King and Council, several Judges being present, The Order was as followeth, <hi>(viz.) Whitehall</hi> the 13th of <hi>December.</hi>
+            </p>
+            <p>It is this day ordered by his Majesty in Council, that the Re<g ref="char:EOLhyphen"/>corder of the Citty of <hi>London</hi> do, and is hereby required by the best wayes he can; speedily to discover and find out in what County, that part of the River of <hi>Thames</hi> lyeth, wherein <hi>Ed<g ref="char:EOLhyphen"/>ward Nichols,</hi> and <hi>Thomas Husse,</hi> now Prisoners in <hi>New-gate,</hi> were apprehended for transporting of Wool, contrary to Law: and that he report the same, to the Lord Chief Justice of his Majesties Court of <hi>Kings Bench;</hi> to the end, his Lordship, may give Order for removal of the said Prisoners, to the Goal of the said County, where it shall appear they were taken, in order to the Tryal of them, for their Lives, at the next Assizes, to be holden for that County: which, to prevent the fear of a discharge, I took it upon me for the Recorder, though not without much trouble; and it was found, They were taken in <hi>Essex</hi> side, where I had no less trouble, to get the Witnesses to the Assizes at <hi>Chelmsford;</hi> sending my Servant several times on purpose to <hi>Gravesend;</hi> but at the Assizes, they were indicted, and the Bill found by the grand Inquest; and the petty Jury, and Witnesses sworn; and upon their Tryal it did appear, that they, when the Wool was seized in the River, the Persons were not apprehended until two dayes after, which occasioned a stop in Court, and the Statutes examined, and the Tryal adjourned until the next day, that the Judg might be well satisfyed, before the Tryal came on. In the Evening, I thought it my duty to at<g ref="char:EOLhyphen"/>tend
+<pb n="9" facs="tcp:204344:7"/>at the Judges Chamber: so both the Judges came together, with the Clark of the Assizes, and the Winesses brought also; and after some time, it was jointly agreed on by both Judges, to have them tryed at the Assizes in <hi>Kent,</hi> the next week, so the Witnesses was bound over to appear at <hi>Maidstone,</hi> where also <hi>I</hi> went, and on Wednesday the 13 of <hi>March,</hi> they receaved their Tryal, the Master, <hi>(viz) Edward Nichols</hi> was cast, and found guilty of Felony: but his man <hi>Thomas Husse</hi> was quit, upon the Allegations of the Master, that his man was not aboard when the Wool was taken aboard, and did not know of it.</p>
+            <p>There was at the Session held near the same time at the <hi>Old Baily,</hi> another Person convict of Felony for the like offence, being also taken in the fact, shipping of comb'd Wool, in Hogges-heads, and both these Persons are to be disposed, (being coninued in Prison,) according to his Majesties pleasure; who hath declared his Resolution, to make some severe examples: there being since more discovered, as you will now see.</p>
+            <p>About <hi>October</hi> last, I was in <hi>Kent,</hi> on the Sea-Coast, and by search, found two Vessels in <hi>Hyth</hi> Haven, appointed to carry away Wool; one of which, had done little else a long time; and the other was newly built, by a Person that had carried over much Wool before: being well satisfyed of these things, being also informed of the intention: for shipping the Wool, at a certain place and time; which did occasion me to get some men, to at<g ref="char:EOLhyphen"/>tend at the time and places; but the Persons concerned, having also their Spies, did not attempt the shipping, whilest I was in the Country; but when I was forced upon occasion to <hi>London,</hi> I did acquaint the two principal Officers in the County, of the design; one of them which did personally attend that, I had long experience of his honesty: and on the fourteenth of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> the said Officer did find and seize twelve packs of the Wool, intended to be transported that very night; and found one of the men, that was to go with the Wool, a bed in the house, half a mile from the Sea, and as he was carrying the twelve packs to <hi>Hyth,</hi> being eight miles from the house, where the Wool was ledged, and being late, not being able to go through with it, as you will see by and by, eight packs of the twelve, were violently taken away, and afterwards transported,
+<pb n="10" facs="tcp:204344:8"/>and the Transporters agreeing together, did afterward sue the said Officer, in several Courts, for that Wool, on purpose to undoe him: Upon which I assisted him in the following Peti<g ref="char:EOLhyphen"/>tion.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Kings most excellent <hi>Majesty.</hi>
+                        </head>
+                        <head type="sub">The Humble Petition of <hi>John Johnson,</hi> Collector of his <hi>Majesties</hi> Custom-house in <hi>Hyth.</hi>
+                        </head>
+                        <p>
+                           <hi>Sheweth,</hi>
+                        </p>
+                        <p>THat your Petitioner on the fourteenth of <hi>November</hi> last, seized twelve packs of Wool, lodged at the house of one <hi>Nicholas Davis,</hi> near new-<hi>Rumney</hi> in <hi>Kent,</hi> half a mile from the Sea, with an intent to be transported; a Boat and Men being hyred for that purpose, as appears by <hi>Affi<g ref="char:EOLhyphen"/>davit;</hi> That your Petitioner being possest of the said Wool, left an Officer with it, whilst he could get carriage, and applyed himself to the Mayor of <hi>Rumney</hi> for assistance: who being a Favourite to the Transporters, utterly refused it; and at the re<g ref="char:EOLhyphen"/>turn of your Petitioner to <hi>Davis</hi> his house, he found the said Offi<g ref="char:EOLhyphen"/>cer, shut out by the said <hi>Davis:</hi> your Petitioner demanding en<g ref="char:EOLhyphen"/>trance with a Civil Officer, was opposed by the said <hi>Davis,</hi> who presented a Gun out of the window at your Petitioner, and the rest with him; often threatning to fire at them. But notwith<g ref="char:EOLhyphen"/>standing, at length your Petitioner did carry away the Wool,
+<pb n="11" facs="tcp:204344:8"/>but not having Assistance, was forced to lodge the Wool at the Civil Officers house, some miles short of your Majesties store<g ref="char:EOLhyphen"/>house, where in the dark of the Night, or Morning, came twenty Persons or more, Armed, and Disguised; and broke down the Windows, and part of the Wall of the said Officers House, Fired often into the House, wounded one of us, being but four, in securing the door, by their constant thrusting in their long pike staves, and shooting; whilst, by force, they carried away eight packs of the said Wool; all which more largely ap<g ref="char:EOLhyphen"/>peareth by several <hi>Affidavit's.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon reading which Petition, the aforesaid <hi>Davis,</hi> with se<g ref="char:EOLhyphen"/>veral others, to the number of fourteen, that were discovered, were sent for; and the said <hi>Davis</hi> is in the Gate-house, and most of the rest bound over to the next Assizes in <hi>Kent.</hi>
+            </p>
+            <p>But note, by the way; that this Officer, by the means of his Travels, and the several Actions laid on him, cannot but be out of Purse near Twenty Pound, besides his Moiety of the four packs of Wool, he did retain.</p>
+            <p>Gentlemen, These instances are not of small import. The whole Affairs, and that the agitations about them: call for no small attendance and travel; nor is it without its own charges, accompanying for dispatches.</p>
+            <p>I have also given Declarations to two Persons, for transport<g ref="char:EOLhyphen"/>ing above three Hundred packs of Wool, and had prepared Tryals with them; but was forced to forbear two or three Terms, for want of Assistance to prosecute them; for such Po<g ref="char:EOLhyphen"/>tent Persons, are not easily run down: if they, and their Con<g ref="char:EOLhyphen"/>federates know once with whom they have to doe, (if they will not be bribed), and that Money is wanting to prosecute, they can find wayes by Friends, and Money, to make Suits delatory and chargable; besides an other mischief, of taking off Witnesses: Of which, you will see a Demonstration afterwards.</p>
+            <p>At <hi>Easter</hi> or <hi>Trinity</hi> Term 1669, one Mr. <hi>John Morten</hi> pro<g ref="char:EOLhyphen"/>secutes <hi>Mark Gabree</hi> in the Exchequer, for transporting of Wool. The said <hi>Gabree</hi> removes it into <hi>Surry,</hi> where Mr. <hi>Mor<g ref="char:EOLhyphen"/>ten</hi> brings it to Tryal, <hi>Midsomer</hi> Assizes following, and sub<g ref="char:EOLhyphen"/>pena'es one <hi>Thomas Petley,</hi> who had been <hi>Gabrees</hi> wool-coom<g ref="char:EOLhyphen"/>ber: <hi>Moretn</hi> obtains a Verdict against the said <hi>Gabree;</hi> but so
+<pb n="12" facs="tcp:204344:9"/>it was ordered, that whereas the forfeiture was three Shillings <hi>per</hi> pound, he had but twelve pence: and being but a small parcel, he lost by it.</p>
+            <p>At <hi>Michaelmas,</hi> following the Tryal aforesaid, <hi>Gabree</hi> arrests <hi>Petley,</hi> by a Writ of the Crown Office for Perjury, out of re<g ref="char:EOLhyphen"/>venge; and to endo him, being but a poor man, and make him uncapable of being Witness any more; and to deterr others.</p>
+            <p>At <hi>Midsummer</hi> Assizes 1670, <hi>Gabree</hi> pretends to come to Tryal: but when he saw <hi>Petley</hi> appear, and had his Witnesses for his defence, he let it fall that Assize.</p>
+            <p>Since <hi>Michaelmas,</hi> Seventy one, <hi>Petley</hi> is again arrested as aforesaid.</p>
+            <p>But I have now presented his Case to his <hi>Majesty,</hi> else he would have been utterly ruin'd; and now the said <hi>Gabree</hi> is in Custody, being owner of the Wool, taken at <hi>Gravesend,</hi> as aforesaid.</p>
+            <p>To what I have now said, I shall add only an Abstract, and that also, chiefly of matters of fact formerly Printed, and of some of those things of Moment, (to this affair) that these two or three last Years have occasioned.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head>
+                           <hi>An Abstract of Letters from</hi> Flanders; <hi>the first, dated the sixteenth of</hi> March, 1669.</head>
+                        <p>WE have here a miserable tax lately come forth, that taxeth <hi>Serges</hi> at 24 <hi>Florence per cent.</hi> The misery is the great quantities, of Wool, that is imported in these Countries, which makes them audacious, and at the Custom<g ref="char:EOLhyphen"/>house they will tell you down right, that the Woollen Ma<g ref="char:EOLhyphen"/>nufactures
+<pb n="13" facs="tcp:204344:9"/>of <hi>England</hi> are altogether unnecessary in the <hi>French</hi> Kings Dominions, because they say they can make it as good or better themselves: but if they had not our Wool, they would not say so: Thus, we <hi>English</hi> have our throats cut, with our own weapons; So, in time, Strangers will not care two pence for our <hi>English</hi> Manufactures.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <head type="sub">
+                           <hi>Another Letter, dated, the Twenty sixth of</hi> April 1670.</head>
+                        <p>THe <hi>French</hi> are now got into a way of making a low-price sort of Cloath, called <hi>Serge de Berry,</hi> which comes as cheap as <hi>Northern</hi> cloath: it is about five quarters broad, they have so much, in which they have cloathed a great number of their Soldiers; and now the King hath lately made an Order, to in<g ref="char:EOLhyphen"/>joyn the Fabrickers, to make it of the same breadth, as our <hi>En<g ref="char:EOLhyphen"/>lish</hi> Broad-cloath: so our low-price cloath, is like to come to no<g ref="char:EOLhyphen"/>thing; and all, made of <hi>English</hi> wool.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>And if it be duly considered:</hi>
+            </p>
+            <p>FEw Princes have such means to support their Splendour and Greatness, as his Majesty of Great <hi>Brittain,</hi> nor have ma<g ref="char:EOLhyphen"/>ny Countries such a variety of Staple Commodities within themselves, and in such abundance, as these Kingdomes.</p>
+            <p>So that if these Advantages were duly improved, this King<g ref="char:EOLhyphen"/>dom might be a general Mart, for these parts of the World: But,</p>
+            <p>That those Advantages are not improved, is obvious to all that look into it, by the sore complaints that are frequently made of the great Poverty and decay thereof; and indeed, (which is worst of all) by that general desperation of Spirit, which will not put forth a hand to help, support or prevent the total desolation of our Country, upon a prepossest opinion, that all endeavours will be rendred fruitless and abortive.</p>
+            <p>The consideration whereof hath greatly prompted me, who
+<pb n="14" facs="tcp:204344:10"/>must confess my self the meanest of Thousands, to use the ut<g ref="char:EOLhyphen"/>most of my little skill, to try what might be done, towards the management of some Methods, that may prevent the threatned ruin; and (if possible) that some good part of what is lost, may be recovered.</p>
+            <p>I shall confine my self to those things only, whereof I have had not only credible information, but a considerable (though a sad) experimental knowledg; and in a more particular and especial manner, that of the Manufacture of Wool in <hi>England,</hi> which, amongst many, is the richest Treasure in his Majesties Dominions; the Flower, Strength and Sinew of this Nation, and therefore of full Merit, to be had in perpetual remembrance, defence and encouragement, for the most advantagious im<g ref="char:EOLhyphen"/>provement thereof.</p>
+            <p>The Dukes of <hi>Burgundy,</hi> (who had, as I am informed, the greatest, if not the whole Manufacturing of our Wool,) well understood, and long enjoyed; before King <hi>Edward</hi> the Third, the benefits accruing to that People by <hi>English</hi> Wool, which they receiving at six <hi>per</hi> pound, by their industrous Ma<g ref="char:EOLhyphen"/>nufacturing thereof; returned again to us in Cloath, at ten shillings <hi>per</hi> yard, to the inriching of that People, and advan<g ref="char:EOLhyphen"/>cing the Revenue of their Soveraign; which being perceived, by the vigilant and industrous Prince, King <hi>Edward</hi> the Third, upon a visitation made by himself, to the Duke of <hi>Burgundy,</hi> during his residence there, he imployed such able Agents, a<g ref="char:EOLhyphen"/>mongst the Flemish Clothiers, as (barely upon his own promises) he prevailed with a great numbers of them to come into <hi>England</hi> soon after him, where He most Royally performed those pro<g ref="char:EOLhyphen"/>mises; and also replanted many of his own Subjects, who had been long setled in <hi>Flanders.</hi>
+            </p>
+            <p>And as a suitable improvement of so great a mercy, did wisely project, and also accomplish the Manufacture of Wool, within the bowels of this Kingdom, to the great inriching of his own People, and also to the peopleing of his new-Conquered Dominions: the Memory of whose Wisdome and Care for his People, is worthy to be had in remembrance, by <hi>English</hi> men, unto the Worlds end.</p>
+            <p>The said King having thus setled the Manufacture of Wools,
+<pb n="15" facs="tcp:204344:10"/>within the Kingdom of <hi>England,</hi> confined it by a penal Sta<g ref="char:EOLhyphen"/>tute, which (at first) reached not only to Goods and Chattels, and Lands, but also to Members, and Life it self; but, in a short time repealed; the two latter thereof continuing, the other in its full force, to remain to future Generations, which ex<g ref="char:EOLhyphen"/>ceeding great advantage, to the propriety of the <hi>English</hi> Trade, hath now continued three Hundred Years, by the vigilancy of the government, and the Protection of its Laws in the careful ex<g ref="char:EOLhyphen"/>ecution thereof upon offenders, with more then a little diligence, to provide against the thirsting desires of Forreigners, to wrest this Nations priviledg out of <hi>English</hi> hands; which by the Pro<g ref="char:EOLhyphen"/>vidence of God, through the care of our Ancestors, has been (for many ages) enjoyed by the Nation, as it is indeed its proper right.</p>
+            <p>But so it is, (for some years past) the diligence of Forreigners, to enrich themselves upon us, hath so far exceeded our care to preserve our selves, that its come to, if not beyond a question, who have the greatest benefit of the Manufacture of <hi>English</hi> Wool? they who have no right unto it? or, they to whom of right it doth belong?</p>
+            <p>That this is so, will appear by considering, that not only <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Flanders,</hi> have long suckt the sweetness of our Trade, but <hi>France</hi> is likewise learning to be too hard for us, as is mani<g ref="char:EOLhyphen"/>fest by the great quantity of Wool, that (of late years) have been imported there; how injurious it must be to us, is also un<g ref="char:EOLhyphen"/>questionable, if we consider the necessary consequences thereof.</p>
+            <p>For every pack of Wool sent to <hi>France,</hi> doth prevent us (not only) of the benefit, of the Manufacture thereof; But, of much more, by reason of the advantage that they make of their own course Wool, and fine-spun Linnen in their Drugets and Stuffs.</p>
+            <p>Now if we consider, what damage we sustain, by exporting one pack of Wool unmanufactured, (by which we judge of the rest,) that a pack of Wool worth ten pound, if it be Manu<g ref="char:EOLhyphen"/>factured here, and so exported, would be improved to be worth one Hundred Pounds.</p>
+            <p>That it is so, doth most evidently appear by Worsted-hose, that one pound of combed Wool, worth twenty pence, will make two pair of Hose worth five shillings the pair; or three pair, worth three shillings four pence; which reckoned either
+<pb n="16" facs="tcp:204344:11"/>way, is ten shillings for one pound of Wool, (though some is less, some is more,) there being twelvescore pound of Wool in a pack, is so many ten shillings, makes a Hundred and Twenty Pound.</p>
+            <p>Let it be remembred, that when those goods are disposed of beyond Sea, and Commodities imported hear in Liew thereof <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; 'tis ten to one, if the first Hundred Pound be not doubled; for considering the Custom of it, when exported, and the product imported with the fraight, the Merchant would be but a small gainer otherwise.</p>
+            <p>If it be so, that the exportation of one Pack of <hi>English</hi> Wool be 200 l. damage to the King and Kingdom; what will be the loss of exporting 10000, or rather 20000 packs yearly? Persons concern'd in these affairs, can soon make a judgment; and although this evil may seem strange to some, yet be assured its manifest to many: especially to such as have given themselves the trouble to inquire thereinto.</p>
+            <p>That not only this, but further inconveniences must by this means grow upon us.</p>
+            <p>First, expose our Woollen Manufactures to a great hazard in <hi>France.</hi>
+            </p>
+            <p n="2">2ly. In time it may capacitate the <hi>French</hi> to undersel our Merchants in Forrain Parts.</p>
+            <p n="3">3ly. Not only the Merchants, but the Clothiers are also con<g ref="char:EOLhyphen"/>cern'd, as depending on the Merchant.</p>
+            <p n="4">4ly. That if the Merchant and Clothier be disabled; then many thousand Families that depend on them, are like to be ex<g ref="char:EOLhyphen"/>posed to desperate straights for a subsistence. If so,</p>
+            <p n="5">5ly. Then the Farmer and Grazier, as depending on the rest, will not be excluded.</p>
+            <p n="6">6ly. To ascend to the Gentry, their dependants being like<g ref="char:EOLhyphen"/>wise upon their Tennants Rents, the consequences are manifest, how much this one mischief will tend to the publick detriment of all sorts of Persons.</p>
+            <p>For if it be so, that there are such complaints, by part of our Trade being lost: what will it be when this mischief comes more to encrease as it will, if private Persons, out of a hope of a pre<g ref="char:EOLhyphen"/>sent profit, shall be suffered thus to go on?</p>
+            <pb n="17" facs="tcp:204344:11"/>
+            <p>For if there were at first a great wisdom by King <hi>Edward,</hi> to bring home the art of Manufacturing the Wool, and settling of it here, there must be then much Treachery and Injury in ex<g ref="char:EOLhyphen"/>porting the Wool now unmanufactured; especially when by this means so many thousand poor people shall want imployment.</p>
+            <p>To instance one Town of my Acquaintance, that in the late Sickness and Dutch War, when Trade was but for some time ob<g ref="char:EOLhyphen"/>structed, I was credibly informed by one of the chiefest there<g ref="char:EOLhyphen"/>of, that the rate for the Poor, came to 800 l. a year, and the Land it self belonging to the said Town, not judged worth a<g ref="char:EOLhyphen"/>bove 1000 <hi>l. per annum.</hi>
+            </p>
+            <p>Give me leave to insert further, the Observations, and Col<g ref="char:EOLhyphen"/>lections of Sr. <hi>Walter Rawly,</hi> to King <hi>James,</hi> who tells that in his time; <hi>That there was above fourscore thousand undres'd, and undyed Cloathes Yearly transported, whereby it was evident, that the Kingdom has been yearly deprived of about</hi> 400000 l. <hi>which in</hi> 55 <hi>years is twenty two Millions; that would have been gained by the labour of poor workmen in the time, with the Merchants gain for bringing in dying Stuffs, and returns of Cloathes, dressed and dyed, with other benefits to the Realm, besides exceeding enlarging of Traffick, and encrease of Ships and Mariners.</hi>
+            </p>
+            <p>
+               <hi>That the Customes would have been encreased, near three Mil<g ref="char:EOLhyphen"/>lions for returns of Cloaths dressed and dyed, with the dying stufs used for the same.</hi> And further saith, <hi>that there had also been tran<g ref="char:EOLhyphen"/>sported in that time yearly by Bayes,</hi> Northern <hi>and</hi> Devonshire <hi>Kerseys white, above</hi> 50000 <hi>Cloathes, counting three Kerseys to a Cleath, whereby there was lost above five Millions, by those sorts of Cloathes; in that time which would have come to poor Work<g ref="char:EOLhyphen"/>men, for their Labour, with Customes, for dying stuffs, and the Peoples profit, for bringing them in with their returns, of other Commodities.</hi> He also tells us, <hi>that Bayes being transported white into</hi> Amsterdam, <hi>and being there dyed and dressed, where shipped into</hi> Spain, Portugal, <hi>and other Kingdomes, where they were sold in the Name of Flemish Bayes, setting their own Town Seals upon them; so that we did lose the very name of our home-bred Commodities, and other Countries got the reputation and credit thereof; concluding how lamentable it was, that this Land should be deprived of so many abovementioned. Millions, as that our Native
+<pb n="18" facs="tcp:204344:12"/>Commodities of Cloath, ordained of God, for the natural Subjects; being so Royal and Rich in it self, should be driven to so small ad<g ref="char:EOLhyphen"/>vantage of reputation, and profit to his Majesty and People: and so much improved and intercepted by Strangers; considering that God hath enabled and given his Majesty power to redress it, if it were minded. He adds,</hi>
+            </p>
+            <p>
+               <hi>That if the account were truly known, it would be found, that the English Merchants, make not clear profit by Cloath rough, un<g ref="char:EOLhyphen"/>dressed and undyed, sixty thousand pounds a year, and that it is most apparent, for lack of dressing and dying, and not bringing in of dy<g ref="char:EOLhyphen"/>ing stuffs, spending of Allum, the Nation is hindred yearly, near a Million of pounds: so that the Trade was driven to the great hin<g ref="char:EOLhyphen"/>drance of his Majesty and People, by permitting the Native Commodities to pass rough, undressed, and undyed.</hi>
+            </p>
+            <p>Now if it was thus with <hi>England</hi> so long ago, (a true ac<g ref="char:EOLhyphen"/>count being taken,) when the Wool was so much improved, as to be made into Cloath, that only for want of dressing and dying, so much damage was to this Kingdom: its but rational to conclude, it must be far greater loss to have the Wool as be<g ref="char:EOLhyphen"/>fore-mentioned, transported without any improvement.</p>
+            <p>And as I have been credibly informed, whither upon Sr. <hi>Wal<g ref="char:EOLhyphen"/>ter Rawleighs</hi> observation, or otherwise: there was a stop put upon the exportation of Cloath undressed, and undyed; but the <hi>Dutch</hi> having found so much advantage by it, having so long enjoyed it; upon our stop of that, the <hi>Hollanders</hi> put the like upon all other our Manufactures fully wrought; so that there came a stop to all Commerce: by which means we were forced to suffer the Cloath to go as before, and so it hath continued e<g ref="char:EOLhyphen"/>ver since: and why was it so? but because it was suffered so long; and have we not cause to fear the like then in our Wool, of which you saw something before?</p>
+            <p>These things considered, I am the more earnest, not only be<g ref="char:EOLhyphen"/>cause this hath cost me some years Labour and Toyl: But, be<g ref="char:EOLhyphen"/>cause its hard, not only to common People of the meanest ca<g ref="char:EOLhyphen"/>pacity, but some of the wiser sort, how to cure this dismal Ma<g ref="char:EOLhyphen"/>lady; which some despairing of, have rather thought of some other things in Lieu of this, as a better improvement of the product of our Plantations. But it will be, that all Trades in
+<pb n="19" facs="tcp:204344:12"/>
+               <hi>England</hi> independent from this of Cloathing, bring nothing competently of the advantage that it doth; since its not rational to beleive the effect, to be greater then the cause: for the most of other Manufactures in being, are by the means, or is the product of our Woollen Manufacture.</p>
+            <p>Now having given some brief account, of the exporting of Wool, and of its consequences; give me leave to insert the Me<g ref="char:EOLhyphen"/>thods of this mischeif, and the cause of its continuance.</p>
+            <p>The Method how: First, In <hi>Kent,</hi> both rough and comb'd Wool is carried by force of Arms at night, and shipped off at any place, according as the Wind serves, with 10.15. somtimes 20 Men well armed and disguised.</p>
+            <p n="2">2ly. For comb'd Wool from <hi>London,</hi> its most shipped off as Bales of Cloath.</p>
+            <p n="3">3ly. Some is shipped under pretence to the Isles of <hi>Jersey,</hi> and <hi>Garnsey.</hi>
+            </p>
+            <p n="4">4ly. From <hi>Ireland,</hi> is most pretended for <hi>England,</hi> (viz.) for <hi>London,</hi> or some other outward <hi>Southern</hi> Port, and not taking solvent Security.</p>
+         </div>
+         <div type="part">
+            <head>The Causes of its Continuance is.</head>
+            <p>FIrst, its the interest of those Persons generally concerned, to look after it, not wholly to destroy it; because then a great profit that now is received, would be lost: and Interest will not lye.</p>
+            <p n="2">2ly. That no particular Person is concerned to look after it: and that which is every ones business, is no bodies.</p>
+            <p n="3">3ly. The discouragements of those that are willing to use their utmost dilligence, to prevent that mischief, as such Persons meet with, <hi>viz.</hi>
+            </p>
+            <p>Mr. Smith, <hi>Now to shew you more particularly, these abuses how the Laws are crossed, and daily obstructed, to such as endea<g ref="char:EOLhyphen"/>vour to serve their Country.</hi>
+            </p>
+            <p>
+               <hi>First, in the Custome House, where bonds are taken for the se<g ref="char:EOLhyphen"/>curity of Wooll, they are very remiss and careless, in seeing the Seamens discharge of their obligatory conditions; where also it is u<g ref="char:EOLhyphen"/>sual with the Seamen to bring fraudulent Certificates. Or if there be a regular return of Bonds, yet there is commonly a fraudulency in
+<pb n="20" facs="tcp:204344:13"/>giving them: For the Masters of Ships will so contrive their de<g ref="char:EOLhyphen"/>signe, as he that is Master at giving the Bonds, and is legally bound shall immediately pass his interest to another man, who taking charge of the Vessel and Voyage is notwithstanding not engaged in the Port-Bond; and therefore neither is he accountable for breach of their conditions. Again, when the Port-Bonds are justly taken, and as justly returned, get to prevent the true and real detection of the Offender, and to dishearten the Legal prosecutor, some friends of the Offender will clap an information against him, purposely to hinder and divert others; &amp; soon after will let the prosecution fall at his pleasure; nay it hath been said, and peradventure not unjustly, that such preventing informations have been antidated to the over<g ref="char:EOLhyphen"/>throw of the real information; but when all is granted, and a full and formal hearing, and decree passed to the just condemnation of the Offender, yet when judgments and inquiries are granted, and do without error of the Clarkes, (which is not alwayes) in power, the Sherifs, and their Baylifs, to see execution thereof made; its familiar with the Officers to return a</hi> non est inventus, <hi>or a</hi> mor<g ref="char:EOLhyphen"/>tus est, <hi>even then when the Offender and the Officers have been seen drinking together, at the very time when the Writ should have been executed.</hi>
+            </p>
+            <p>
+               <hi>After all this, one step further, will shew how Charity it self a<g ref="char:EOLhyphen"/>buseth Justice; for let all the former proceedings be granted, and be candid, and clear, and that the law be indeed justly and legally ex<g ref="char:EOLhyphen"/>ecuted, the Offender in Custody, and nothing remaining, but that he satisfy the Law, nevertheless, upon a lamentable Petition, and urging a great charge of children, the Offender is usually admit<g ref="char:EOLhyphen"/>ed to compound for ten in the Hundred, or less; when by his offence he hath gained a hundred for ten, or more, peradventure hath un<g ref="char:EOLhyphen"/>done a hundred Families, or more in so doing: yet all this while the conscientious prosecutor, who ought to have the full benefit and advantage of the Law,</hi> gratis, <hi>it being enough that he spends his time for the promoting of the publick wealth, after it hath cost him several great summs of Money, and large expence of time, to bring the Offender to tryal, and conviction, is dimissed, with litle or no sa<g ref="char:EOLhyphen"/>tisfaction, unless he be rewarded with the brand of an informing Knave.</hi>
+            </p>
+            <p>
+               <hi>And in general, such affronts, and discouragements, as the
+<pb n="21" facs="tcp:204344:13"/>dearest lover of his Country, or most interessed in Trade, dares not attempt to prevent the mischief, which his eyes behold to fall upon the Nation; or which his own Person feels to pick his pocket: Surely, they who made these Laws for the benefit of themselves, and their Country, did intend a more current and just passage toward them; then thus to be obstructed and baffled. And hence many have bid the World farewel, and moved them to withdraw them<g ref="char:EOLhyphen"/>selves into Deserts and solitary aboades, as not being able to behold with their eyes that which did breed, and being so much disquiet to their minds, whose intentions were wholy bent to that which was re<g ref="char:EOLhyphen"/>ally good and honest.</hi>
+            </p>
+            <p>Notwithstanding this, I would willingly hope otherwise, and would incourage my self therein.</p>
+            <p>And though we are in many places declined in our Trade, y<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it doth not therefore follow, that we are left without all hopes of recovery, as some are apt to conclude, seeing our Trade is yet in beeing, and not so hard and difficult, as wholly to begin one, as when there was no footsteps for it, as in the said King <hi>Edward</hi> his time.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
